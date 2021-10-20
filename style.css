@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;300&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+#left-side {
+    background-color: lightgrey;
+    height: 1800px;
+    display: inline-block;
+    float: left;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 100px;
+}
+
+.titre-side {
+    margin-top: 400px;
+}
+
+#fix {
+    margin-top: 30px;
+}
+
+
+.container-principal {
+    margin-left: 300px;
+
+}
+
+h1{
+    position: relative;
+    top: auto;
+    right: 100px;
+    color: #ffb300;
+    text-align: center;
+}
+
+.inlineP {
+    text-align: center;
+    display: inline;
+    margin-left: 100px;
+}
+
+#div2 {
+    margin-top: 100px;
+}
+
+
+#github-logo {
+    position: absolute;
+    top: 170px;
+    right: 100px;
+}
+
+#linkedin-logo {
+    position: absolute;
+    top: 170px;
+    right: 300px;
+}
+
+ul,li,ol {
+    list-style-type: none;
+}
+
+#scolaire {
+    margin-top: 100px;
+}
+
+#professionnel {
+    margin-top: 150px;
+}
+
+#competences {
+    margin-top: 70px;
+}
+
+.progress {
+    padding-top: 10px;
+}
+
+#hobbies {
+    margin-top: 110px;
+}
+
+.h2-color {
+    color: #ffb300;
+}
+
+.formulaire {
+    padding: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+form {
+    margin-top: 300px;
+}
