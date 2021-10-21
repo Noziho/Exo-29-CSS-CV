@@ -76,7 +76,7 @@ ul,li,ol {
 }
 
 #professionnel {
-    margin-top: 150px;
+    margin-top: 100px;
 }
 
 #competences {
@@ -88,7 +88,7 @@ ul,li,ol {
 }
 
 #hobbies {
-    margin-top: 110px;
+    margin-top: 130px;
 }
 
 .h2-color {
@@ -104,9 +104,13 @@ textarea {
 }
 
 form {
-    margin-top: 300px;
+    margin-top: 220px;
 }
 
-/*
-* minor changes
-*/
+hr {
+    border-style: dot-dash ;
+}
+
+#test {
+    margin-top: 80px;
+}
